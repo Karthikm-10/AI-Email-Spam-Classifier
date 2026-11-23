@@ -77,6 +77,17 @@ Note: These are experimental results from the current 600-email test split. The 
 - Estimated prediction probabilities
 - Interactive Streamlit interface
 
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Spam Email Detection
+![Spam Detection](screenshots/spam-detection.png)
+
+### Legitimate Email Detection
+![Legitimate Email](screenshots/legitimate-email.png)
+
 ## Project Structure
 
 ```text
