@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+
+data/raw/
+data/processed/
+
+*.log
+.DS_Store
